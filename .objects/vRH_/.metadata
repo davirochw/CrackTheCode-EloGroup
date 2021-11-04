@@ -1,0 +1,12 @@
+﻿{
+  "Id": "vRH_LMkKNEaLON8vX5_S_Q",
+  "Reference": "tDukyZqv6kK39mrLuzntyw/vRH_LMkKNEaLON8vX5_S_Q",
+  "Name": "ST Logística - Rastreamento de Pacotes v1.00",
+  "Type": "App",
+  "Created": "2021-11-02T01:30:23.361043Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-11-02T01:30:23.361043Z"
+}

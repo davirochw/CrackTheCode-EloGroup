@@ -1,0 +1,13 @@
+﻿{
+  "Id": "kMc0SxTQ_Um4k6mY7zIqZQ",
+  "Reference": "tDukyZqv6kK39mrLuzntyw/kMc0SxTQ_Um4k6mY7zIqZQ",
+  "ParentRef": "tDukyZqv6kK39mrLuzntyw/_hsTVtez1Um_aCM1e2wXxQ",
+  "Name": "ST Logística - Rastreamento de Pacotes v1.00",
+  "Type": "Screen",
+  "Created": "2021-11-02T01:30:23.5299374Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-11-02T01:30:23.5299374Z"
+}

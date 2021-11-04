@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="Ibk9XJC37EKKZf990v03sA" DesignTimeRectangle="27, 146, 299, 25" ElementType="Button" FriendlyName="'Carregar Lote'" FullSelectorArgument="&lt;wnd cls='Button' title='Carregar Lote' /&gt;" FuzzySelectorArgument="&lt;wnd cls='Button' title='Carregar Lote' check:text='Carregar Lote' /&gt;" Guid="3f5b9510-e3dc-41a9-96ad-e5596ae12912" ScopeSelectorArgument="&lt;wnd app='stlog.exe' cls='AutoIt v3 GUI' title='ST Logística - Rastreamento de Pacotes v1.00' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0DkTFY958i0e4cNQIRZR6Dw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="ee29391ef2f76dd0eacd21e0f38a4a80.png" xmlns="">00OB9OlSl8EG8mUSmP_V8iw</imageRef>
+</TargetAnchorable>

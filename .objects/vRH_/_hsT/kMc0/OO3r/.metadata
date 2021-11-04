@@ -1,0 +1,14 @@
+﻿{
+  "Id": "OO3r4YowukezK7RZi0WQPQ",
+  "Reference": "tDukyZqv6kK39mrLuzntyw/OO3r4YowukezK7RZi0WQPQ",
+  "ParentRef": "tDukyZqv6kK39mrLuzntyw/kMc0SxTQ_Um4k6mY7zIqZQ",
+  "Name": "Carregar Lote",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-11-02T01:30:23.9027095Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-11-02T01:30:23.9027095Z"
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" ContentHash="Yd3ObDJ07EOZ-ynnFdbAHQ" FilePath="[Nothing]" Selector="&lt;wnd app='stlog.exe' cls='AutoIt v3 GUI' title='ST Logística - Rastreamento de Pacotes v1.00'/&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0ncS72m_8MEWlL2ieLWVHmQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="2970252facd7aa35ea4060f5a696be06.png" xmlns="">0BiiDVFyaw0aU173yBpCd8w</imageRef>
+</TargetApp>
